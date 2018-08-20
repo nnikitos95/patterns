@@ -1,0 +1,17 @@
+{
+    "name": "nikita/patterns",
+    "authors": [
+        {
+            "name": "n.popov",
+            "email": "n.popov@inspiritum.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "5.7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "DPRDIO\\": "designpatternsphp.readthedocs.io"
+        }
+    }
+}
